@@ -23,7 +23,7 @@ dbMock = [
 describe('googleSearch', () => {
     it('is a silly test', () => {
         expect(true).toBe(false);
-        expect(true).toBe(false);
+        expect(true).toBe(true);
         //googleSearch('Testtest',dbMock);
     })
     
